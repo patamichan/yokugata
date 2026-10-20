@@ -1,0 +1,3 @@
+ここに別途受け渡したv2_Fairing_Airfoil_Database.csvを配置します。
+生成座標はairfoils/、長時間計算の保存先は長時間計算/です。
+これらの生成物はルートの.gitignoreでGit管理から除外しています。

@@ -1,0 +1,8 @@
+{
+  "tc_min": 20.0, "tc_max": 28.0, "tc_step": 0.5,
+  "xt_min": 40.0, "xt_max": 46.0, "xt_step": 0.5,
+  "kle_list": [0.9, 1.1, 1.2, 1.3],
+  "center_tc": 23.0, "center_xt": 43.0, "center_kle": 1.2,
+  "reynolds_min": 1200000, "reynolds_max": 2700000, "reynolds_step": 300000,
+  "alpha_min": 0.0, "alpha_max": 8.0, "alpha_step": 0.25
+}

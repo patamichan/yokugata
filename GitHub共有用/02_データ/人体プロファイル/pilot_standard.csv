@@ -1,0 +1,6 @@
+# 標準パイロット体型設定 (PRESET_PILOT_STANDARD)
+station_name, x_mm, width_mm, clearance_mm
+Feet/Pedal,   100.0,  320.0,       20.0
+Knees,        500.0,  380.0,       20.0
+Hips,         900.0,  420.0,       20.0
+Shoulders,   1200.0,  460.0,       25.0
